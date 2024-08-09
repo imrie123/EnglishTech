@@ -28,6 +28,8 @@ gem "jwt"
 
 gem "firebase"
 
+gem "jbuilder"
+
 group :development, :test do
   gem "debug", platforms: %i[ mri windows ]
 end
