@@ -30,6 +30,10 @@ gem "firebase"
 
 gem "jbuilder"
 
+gem "openai"
+
+gem "ruby-openai"
+
 group :development, :test do
   gem "debug", platforms: %i[ mri windows ]
 end
